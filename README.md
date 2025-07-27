@@ -98,7 +98,7 @@ I'm a passionate developer who builds scalable, full-stack apps and explores app
 
 - 🌐 Portfolio: [latheeshan-DigitalMe.com](https://latheeshan-DigitalMe.com)
 - 💼 LinkedIn: [linkedin.com/in/latheeshan](https://www.linkedin.com/in/latheeshan-t-7b503a245/)
-- 📧 Email: yourname@gmail.com
+- 📧 Email: latheeshan.t@gmail.com
 
 ---
 
