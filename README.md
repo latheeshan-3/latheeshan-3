@@ -11,16 +11,19 @@ I'm a passionate developer who builds scalable, full-stack apps and explores app
 ### 🧠 AI Tools & Technologies I'm Exploring
 
 **Languages & Frameworks:**
-- 🐍 Python (NumPy, Pandas, Matplotlib)
-- 🤖 Scikit-learn, TensorFlow, Keras, PyTorch
-- ⚡ FastAPI for ML APIs
-- 🔗 **LangChain** for LLM-powered pipelines
-- 🤖 **Grok AI** for conversational AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![Grok AI](https://img.shields.io/badge/Grok_AI-ff4088?style=flat-square&logo=openai&logoColor=white)
 
 **Platforms & Tools:**
-- 📒 Google Colab, Kaggle, Teachable Machine
-- 🤯 Hugging Face, OpenAI API, Replicate
-- 🎨 PlaygroundAI, RunwayML, Lobe, Pika Labs
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square)
+![RunwayML](https://img.shields.io/badge/RunwayML-0A0A0A?style=flat-square)
+![Pika Labs](https://img.shields.io/badge/PikaLabs-E6007A?style=flat-square)
 
 ---
 
@@ -60,14 +63,6 @@ I'm a passionate developer who builds scalable, full-stack apps and explores app
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 🌟 Current Focus
-- 📱 Building cross-platform mobile & web apps with role-based architecture
-- 🤖 Implementing LLM pipelines using LangChain & Grok AI
-- ⚙️ Automating backend and AI workflows with Docker & Kubernetes
-- 🌍 Deploying apps with FastAPI, AWS, and Cloudinary
 
 ---
 
