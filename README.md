@@ -80,16 +80,16 @@ I'm a passionate developer who builds scalable, full-stack apps and explores app
 ---
 
 ### 📌 Featured Projects
-- [⚙️ Full-stack React Native App with Role-based Auth](https://github.com/latheeshan/your-app)
+- [⚙️ Full-stack React Native App with Auth API JWT Role-based Auth](https://github.com/pradeepajaya/Plasticle.git)
 - [🔐 Auth API with JWT + Google OAuth](https://github.com/latheeshan/auth-api)
-- [💬 AI Chatbot with LangChain & Grok AI](https://github.com/latheeshan/ai-chat)
+- [💬 AI Recrutment and Resume Analysing with LangChain & Grok AI](https://github.com/latheeshan-3/Evaluno_AI.git)
 - [🧠 Model Deployment via FastAPI](https://github.com/latheeshan/ai-api)
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/latheeshan](https://linkedin.com/in/latheeshan)
+- 🌐 Portfolio: [yourwebsite.com](https://latheeshan-DigitalMe.com)
+- 💼 LinkedIn: [linkedin.com/in/latheeshan](https://www.linkedin.com/in/latheeshan-t-7b503a245/)
 - 📧 Email: yourname@gmail.com
 
 ---
