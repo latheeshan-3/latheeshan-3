@@ -79,16 +79,16 @@ I'm a passionate developer who builds scalable, full-stack apps and explores app
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latheeshan&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=latheeshan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latheeshan-3&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=latheeshan-3&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latheeshan&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latheeshan-3&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latheeshan&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latheeshan-3&theme=radical" alt="Profile Details" />
 </p>
 
 ---
