@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Latheeshan .T</h1>
-<h3 align="center">Full Stack Mobile & Web Developer | AI Explorer | DevOps Enthusiast</h3>
+<h3 align="center"> Machine Learning Engineer and AI Developer| Full Stack Mobile & Web Developer| DevOps Enthusiast</h3>
 
 ---
 
